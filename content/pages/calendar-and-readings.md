@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Calendar and Readings
 uid: 8a6e2700-30d2-db7f-00b7-6e9d3182d3fe
 ---
@@ -132,7 +135,7 @@ Film is available on YouTube [http://www.youtube.com/watch?v=cLwAnKv2pP8](http:/
 
 ### Read
 
-King, John. "Cinema." In _A Cultural History of Latin America: Literature, Music and the Visual Arts in the 19th and 20th Centuries_. Edited by Leslie Bethell. Cambridge University Press, 1998, p. 465. ISBN: 9780521626262. (From beginning of first full paragraph) to 468 (end of first paragraph), and section "The 1940s: A 'Golden Age' of Cinema?: Mexico," pp. 471–77.
+King, John. "Cinema." In _A Cultural History of Latin America: Literature, Music and the Visual Arts in the 19{{< sup "th" >}} and 20{{< sup "th" >}} Centuries_. Edited by Leslie Bethell. Cambridge University Press, 1998, p. 465. ISBN: 9780521626262. (From beginning of first full paragraph) to 468 (end of first paragraph), and section "The 1940s: A 'Golden Age' of Cinema?: Mexico," pp. 471–77.
 
 
 {{< tdclose >}}
