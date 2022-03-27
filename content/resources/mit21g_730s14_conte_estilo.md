@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3062ca1a-b88b-fba2-29a1-52fd8515785b
 resourcetype: Document
 title: 'Hispanic America: One Hundred Years of Literature and Film:  Pauta Para La
   Correccion De Los Ensayos'

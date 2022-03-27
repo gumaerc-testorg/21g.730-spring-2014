@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 8a6e2700-30d2-db7f-00b7-6e9d3182d3fe
 resourcetype: Document
 title: "Hispanic America: One Hundred Years of Literature and Film:Temas de discusi\xF3\
   n y algunas observaciones sobre \"Los destiladores de naranja\""
