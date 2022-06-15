@@ -1,45 +1,44 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 0f28283c-2a38-4ec8-f039-58083cd5fec3
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21G.730 Hispanic America: One Hundred Years of Literature and Film_ as it was taught by Prof. Elizabeth Garrels in Spring 2014.
 
 This course explores artistic achievement in a culture that over the past century has engaged in constant and intense imaginative self-renewal. Students study film, narrative, and poetry, including works by Gabriel Garcia Márquez, Horacio Quiroga, and Pablo Neruda, among many others.The course is conducted in Spanish.
 
-Course Outcomes
----------------
+## Course Outcomes
 
-*   To gain a more nuanced perspective on Hispanic American culture and history.
-*   To experience the rich diversity of Hispanic America by studying materials created by both women and men from different countries and cultural regions in the Americas.
-*   To develop critical and imaginative thinking.
-*   To improve reading, writing, listening, and speaking skills in Spanish.
-*   To improve analytical strategies for interpreting and discussing fictional prose, poetry, and film.
+- To gain a more nuanced perspective on Hispanic American culture and history.
+- To experience the rich diversity of Hispanic America by studying materials created by both women and men from different countries and cultural regions in the Americas.
+- To develop critical and imaginative thinking.
+- To improve reading, writing, listening, and speaking skills in Spanish.
+- To improve analytical strategies for interpreting and discussing fictional prose, poetry, and film.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
 One intermediate subject in Spanish or permission from the instructor. Intermediate subjects include:
 
-*   [_21G.711 Advanced Spanish Conversation and Composition: Perspectives on Technology_](/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/)
-*   [_21G.712/792 Spanish Conversation and Composition/Spanish Conversation and Composition-Globalization_](/courses/21g-712-spanish-conversation-and-composition-fall-2003/)
-*   _21G.713 Advanced Communication in Spanish: Film, Visual Arts, and Fiction_
-*   [_21G.714 Spanish for Bilingual Students_](/courses/21g-714-spanish-for-bilingual-students-spring-2003/)
+- [_21G.711 Advanced Spanish Conversation and Composition: Perspectives on Technology_](/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014)
+- [_21G.712/792 Spanish Conversation and Composition/Spanish Conversation and Composition-Globalization_](/courses/21g-712-spanish-conversation-and-composition-fall-2003)
+- _21G.713 Advanced Communication in Spanish: Film, Visual Arts, and Fiction_
+- [_21G.714 Spanish for Bilingual Students_](/courses/21g-714-spanish-for-bilingual-students-spring-2003)
 
 ### Requirements Satisfied
 
-*   HASS Elective ![](/images/educator/icon-question-hass.png)
-*   HASS-H ![](/images/educator/icon-question-hass-h.png)
-*   21G.730 can be applied toward a [Bachelor of Science in Foreign Languages and Literatures - Major in Spanish Studies](http://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/#spanishstudiestext), but is not required.
+- HASS Elective ![](/images/educator/icon-question-hass.png)
+- HASS-H ![](/images/educator/icon-question-hass-h.png)
+- 21G.730 can be applied toward a [Bachelor of Science in Foreign Languages and Literatures - Major in Spanish Studies](http://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/#spanishstudiestext), but is not required.
 
 ### Offered
 
@@ -47,14 +46,13 @@ The course was typically offered every other spring and was taught by Prof. Garr
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "My teaching career spanned more than 35 years. I found that the mistakes 18 year-olds made in the realms of content, style, and grammar were the same year after year. So rather than writing down all my comments when I gave students feedback on their work, I created correction guides." "—Prof. Elizabeth Garrels" >}}
 
 Prof. Garrels retired in 2014 after 35 years at MIT. This course was the last she taught on campus. [Read a profile](http://shass.mit.edu/news/news-2014-elizabeth-garrels-retires-after-35-years-mit) about Prof. Garrels.
 
-_Below, Prof. Elizabeth Garrels describes various aspects of how she taught _21G.730 Hispanic America: One Hundred Years of Literature and Film_._
+_Below, Prof. Elizabeth Garrels describes various aspects of how she taught \_21G.730 Hispanic America: One Hundred Years of Literature and Film_.\_
 
 ### Keeping Courses Fresh
 
@@ -72,8 +70,7 @@ My teaching career spanned more than 35 years. I found that the mistakes 18 year
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -81,14 +78,15 @@ The students' grades were based on the following activities:
 - 20% Two student presentations
 - 45% Five short essays
 
-
 ### Instructor Insights on Assessment
+
 The above percentages are approximate and are provided so that students can keep track of their progress. However, I also value demonstrated improvement in the quality of participation and interpretative and expository skills in written exercises. If I see a clear demonstration of improvement in these areas, I may consider enhancing the result of the numerical calculation based on percentages. My most important objective for students is that they improve their interpretative and expository skills as a result of their sustained hard work throughout the semester.
 
-Student Information
--------------------
+## Student Information
 
-![On average, 10 students take this course each time it is offered.]({{< resource_file 90ec5f9b-06ab-2a16-8fc8-db9d19266a65 >}})
+### Enrollment
+
+10 students
 
 Students in the class were from diverse majors throughout the Institute. 
 
@@ -96,19 +94,16 @@ Of the 10 students in the class, one was a freshmen, two were sophomores, five, 
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met two times per week for 1.5 hours per session; 26 sessions total.
-*   Class time was spent discussing and critiquing a variety of texts, poems, and films.
-*   Student presentations on the assignments were held during five sessions throughout the semester.
+- Met two times per week for 1.5 hours per session; 26 sessions total.
+- Class time was spent discussing and critiquing a variety of texts, poems, and films.
+- Student presentations on the assignments were held during five sessions throughout the semester.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent most of their time outside of class reading literature and poems and watching films. In addition, the students worked on five papers, and two projects; one individually and one with a group.
