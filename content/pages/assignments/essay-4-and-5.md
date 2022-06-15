@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains instructions for the fourth and fifth essay assignments. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

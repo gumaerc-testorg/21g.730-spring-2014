@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, films,
+  assignments, and student presentations.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -67,8 +69,8 @@ Two short stories by Horacio Quiroga (Uruguay, 1878 – Buenos Aires, Arg., 1937
 ### Also Read
 
 *   "Quiroga y el horror: _La gallina degollada de Horacio Quiroga._" Adapted by Carlos Trillo, illustrated by Alberto Breccia, and introduced by Ricardo Piglia. Sección _Argentina en pedazos. Fierro: Historietas para sobrevivientes_. Revista Mensual de Ediciones de la Urraca 1, no. 8 (1984): 11.
-*   Study questions for ["El almohadón" (PDF)]({{< baseurl >}}/resources/mit21g_730s14_ses2_almohad) and ["La gallina" (PDF)]({{< baseurl >}}/resources/mit21g_730s14_ses2_gallina)
-*   The brief document ["¿Cuándo entra Hispanoamérica a la modernidad?" (PDF)]({{< baseurl >}}/resources/mit21g_730s14_ses2_moderni)
+*   Study questions for {{% resource_link 20544b67-b93b-736b-60a5-91abcdb5b20d "\"El almohadón\" (PDF)" %}} and {{% resource_link 77a3f2a5-0aa0-29e6-448b-fab1526a0222 "\"La gallina\" (PDF)" %}}
+*   The brief document {{% resource_link 2ed3389c-02a5-6d47-c846-67400347ee21 "\"¿Cuándo entra Hispanoamérica a la modernidad?\" (PDF)" %}}
 *   Concha, Jaime. "Introduction." In [_The Cambridge History of Latin American Poetry, c. 1920–1950_](http://dx.doi.org/10.1017/CHOL9780521495943.004). Cambridge University Press, 1995. ISBN: 9780521495943. (approximately 3 pages)
 *   Herrera, Hayden. "Beauty to His Beast: Frida Kahlo & Diego Rivera." (17 pages)
 
@@ -110,7 +112,7 @@ Two short stories by Horacio Quiroga:
 ### Read
 
 *   Horacio Quiroga's short story "[Los destiladores de naranja](http://www.ataun.eus/BIBLIOTECAGRATUITA/Cl%C3%A1sicos%20en%20Espa%C3%B1ol/Horacio%20Quiroga/Los%20destiladores%20de%20naranja.pdf)." First published in the Argentine magazine _Atlántida_, in 1923, and then in the collection entitled _Los desterrados_, in 1926.
-*   [Discussion questions and observations (PDF)]({{< baseurl >}}/resources/mit21g_730s14_ses4_naranja)
+*   {{% resource_link fd8acf94-aaf0-e348-00aa-187ffc06ed44 "Discussion questions and observations (PDF)" %}}
 *   _La imaginación técnica: Sueños modernos de la cultura argentina_. Nueva Visión, 1992, pp. 21–42.  An important critical article on Quiroga by Beatriz Sarlo, "Horacio Quiroga y la hipótesis técnico-científica."
 
 
@@ -337,7 +339,7 @@ Essay 2 on _Cien años_
 
 *   \[Soledad\] Chapters 13–18.
 *   Darío, Rubén. "[A Roosevelt](http://www.poemas-del-alma.com/a-roosevelt.htm)." In _Cantos de vida y esperanza_. Alianza, 2004. ISBN: 9788420658605. (First published in 1905.)
-*   Neruda, Pablo. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["United Fruit Company." (PDF)](http://www.writing.ucsb.edu/faculty/dean/Upload501B-Fall06/PabloNeruda.pdf) In _Canto general_. Catedra, 2006. ISBN: 9788437609300. (First published in Mexico, in 1950.)
+*   Neruda, Pablo. ["United Fruit Company." (PDF)](http://www.writing.ucsb.edu/faculty/dean/Upload501B-Fall06/PabloNeruda.pdf) In _Canto general_. Catedra, 2006. ISBN: 9788437609300. (First published in Mexico, in 1950.)
 *   Franco, Jean. "Cruel Survival." Chapter 6 in _Cruel Modernity_. Duke University Press, 2013, pp. 153–67. ISBN: 9780822354567. \[Preview with [Google Books](http://books.google.com/books?id=pc9aUc603bgC&pg=PA152=onepage)\] (all of sub-sections "Execution as Allegory" and "La Llorona"), and notes for all.
 
 
@@ -453,7 +455,7 @@ Poniatowska, Elena. _Querido Diego, Te abraza Quiela_. Ediciones ERA, 2007. ISBN
 See images in class of paintings and drawings by Angelina Beloff, Diego Rivera, and Frida Kahlo.  
 Fuguet, Alberto, and Sergio Gómez.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Presentación del país McOndo." (PDF)](https://lh2.weebly.com/uploads/2/3/9/0/23909114/presentaci%C3%B3n_del_pa%C3%ADs_de_mcondo.pdf) _McOndo_. Prologue to short-story anthology
+["Presentación del país McOndo." (PDF)](https://lh2.weebly.com/uploads/2/3/9/0/23909114/presentaci%C3%B3n_del_pa%C3%ADs_de_mcondo.pdf) _McOndo_. Prologue to short-story anthology
 
 
 {{< tdclose >}}
@@ -478,11 +480,11 @@ Remembered from The 1990s: To Be Chilean and Young in 1973—Patricio Guzmán (C
 ### Read
 
 *   Bolaño, Roberto. Chapters 1–3 in _Estrella distante_. Vintange Espanol, 2010. ISBN: 9780307476128. Untitled prologue.
-*   Marinetti, Filippo Tomaso. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Manifesto of Futurism." (PDF)](http://www.societyforasianart.org/sites/default/files/manifesto_futurista.pdf) In _Three Intellectuals in Politics_. Ulan Press, 2012.
+*   Marinetti, Filippo Tomaso. ["Manifesto of Futurism." (PDF)](http://www.societyforasianart.org/sites/default/files/manifesto_futurista.pdf) In _Three Intellectuals in Politics_. Ulan Press, 2012.
     *   First published in French in _Le Figaro_, of Paris, on February 20, 1909 and reprinted in its entirety in Spanish translation, in Spain, by Ramón Gómez de la Serna, in Prometeo (II, num / 4, VI, April 1909).
     *   This reading is intended to give you a partial idea of the different aesthetics that were emerging in Europe to address the experience of modernity at the beginning of the 20th century. This information is relevant to the first chapters of Bolaño's 1996 novel.
     *   An interesting aside: A mere forty days after the publication of Marinetti's manifesto in Paris, Rubén Darío published a response in the Buenos Aires newspaper _La Nación_, in which he praised Marinetti's poetry for its "vehemence" but declared the manifesto "useless," claiming that it would generate numerous imitators of Marinetti's poetry who lacked his talent. In his article, Darío reproduced the manifesto's eleven points, possibly their first publication in Latin America.
-*   [Roberto Bolaño (1953–2003) & Chronology of Chilean Coup (1973) and Aftermath (PDF)]({{< baseurl >}}/resources/mit21g_730s14_bolano_coup)
+*   {{% resource_link 5d1799f9-4f51-9e52-d35c-431274ae0cc2 "Roberto Bolaño (1953–2003) & Chronology of Chilean Coup (1973) and Aftermath (PDF)" %}}
 *   Boullosa, Carmen. "[A Garden of Monsters](http://www.thenation.com/article/garden-monsters)." _The Nation_. March 31, 2008. A review of English translation of Bolaño's [_Nazi Literature in the Americas_](http://www.amazon.com/Nazi-Literature-Americas-Directions-Paperbook/dp/0811217949), originally published in Spanish as _La literatura nazi en América_ in 1996, and referred to in Bolaño's novel _Estrella distante_, published later in the same year.
 
 

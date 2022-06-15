@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains instructions for the second essay assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
