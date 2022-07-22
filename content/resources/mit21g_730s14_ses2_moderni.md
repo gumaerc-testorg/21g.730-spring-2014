@@ -6,6 +6,7 @@ file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Hispanic America: One Hundred Years of Literature and Film: Cu\xE1ndo en
 uid: 2ed3389c-02a5-6d47-c846-67400347ee21
 ---
 This file contains the information regarding Cuándo entra Hispanoamérica en la modernidad?.
-

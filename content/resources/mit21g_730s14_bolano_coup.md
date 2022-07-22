@@ -6,6 +6,7 @@ file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Hispanic America: One Hundred Years of Literature and Film: Roberto Bola
 uid: 5d1799f9-4f51-9e52-d35c-431274ae0cc2
 ---
 This file contains the information regarding Roberto Bolaño & Chronology of Chilean Coup and Aftermath.
-

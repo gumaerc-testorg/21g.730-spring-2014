@@ -6,6 +6,7 @@ file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Hispanic America: One Hundred Years of Literature and Film:Temas de disc
 uid: fd8acf94-aaf0-e348-00aa-187ffc06ed44
 ---
 This file contains the information regarding Temas de discusión y algunas observaciones sobre "Los destiladores de naranja".
-

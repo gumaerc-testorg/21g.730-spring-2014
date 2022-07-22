@@ -6,6 +6,7 @@ file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Hispanic America: One Hundred Years of Literature and Film: Cuatro pregu
 uid: 20544b67-b93b-736b-60a5-91abcdb5b20d
 ---
 This file contains the information regarding Cuatro preguntas sobre "El almohadón de plumas".
-

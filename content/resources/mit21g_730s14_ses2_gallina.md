@@ -6,6 +6,7 @@ file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Hispanic America: One Hundred Years of Literature and Film: Nueve Pregun
 uid: 77a3f2a5-0aa0-29e6-448b-fab1526a0222
 ---
 This file contains the information regarding Nueve Preguntas de lectura, "La gallina degollada".
-
