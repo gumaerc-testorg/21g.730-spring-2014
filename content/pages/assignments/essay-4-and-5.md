@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section contains instructions for the fourth and fifth essay assignments. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c0cc6795-cd59-76cf-027b-f49573864354
 title: Essay 4 and 5
 uid: 0ada583d-9ec5-3cae-70d9-04f9e7fd20b8

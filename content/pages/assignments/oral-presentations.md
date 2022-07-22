@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains instructions for the oral presentation assignment
+  required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c0cc6795-cd59-76cf-027b-f49573864354
 title: Oral Presentations
 uid: e08be0f6-1fc2-e058-5cf6-bdc45cabac7d
