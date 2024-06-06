@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014/90ec5f9b06ab2a168fc8db9d19266a65_21G-730_stat-students.png
+file_size: 2820
 file_type: image/png
 image_metadata:
   caption: ''
