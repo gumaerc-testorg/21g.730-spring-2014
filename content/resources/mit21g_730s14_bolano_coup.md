@@ -3,6 +3,7 @@ content_type: resource
 description: "This file contains the information regarding Roberto Bola\xF1o & Chronology\
   \ of Chilean Coup and Aftermath."
 file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014/5d1799f94f519e52d35c431274ae0cc2_MIT21G_730S14_Bolano_Coup.pdf
+file_size: 190886
 file_type: application/pdf
 learning_resource_types:
 - Readings
