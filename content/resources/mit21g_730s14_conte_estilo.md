@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Pauta Para La Correccion
   De Los Ensayos: Observaciones Sobre Contenido Y Estilo.'
-file: /ol-ocw-studio-app/courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014/22ed12b996666e0db8472727b13eef7e_MIT21G_730S14_conte_estilo.pdf
+file: /courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014/22ed12b996666e0db8472727b13eef7e_MIT21G_730S14_conte_estilo.pdf
 file_size: 160764
 file_type: application/pdf
 learning_resource_types: []
